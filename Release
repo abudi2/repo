@@ -1,0 +1,8 @@
+Origin: abudi2 Repo
+Label: abudi2 Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: abudi2 Repo w
